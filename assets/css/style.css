@@ -1,0 +1,20 @@
+.editCont {
+    width: 100%;
+    padding-right: 10%;
+    padding-left: 10%;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.card1 {
+    width: 100%;
+    text-align: center;
+    margin-bottom: 1rem;
+}
+/* body {
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #212529;
+    text-align: left;
+} */
